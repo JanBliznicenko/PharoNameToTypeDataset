@@ -1,0 +1,32 @@
+﻿Name;Type_ret;Ratio_ret;Amount_ret;Type_var;Ratio_var;Amount_var;same_type;Amount_max
+associations;Array;0.8;33;SequenceableCollection;0.92;36;False;36.0
+basicInputCollection;ArrayedCollection;1.0;125;ByteArray;0.83;48;False;125.0
+basisObjects;Set;0.98;124;Collection;1.0;48;False;124.0
+collectionClass;Object class;1.0;61;SequenceableCollection class;0.92;44;False;61.0
+combination;BlCompulsoryCombination;0.99;83;BlKeyCombination;0.89;34;False;83.0
+contents;ArrayedCollection;0.85;273;SequenceableCollection;0.81;107;False;273.0
+dependencies;Collection;0.95;112;HashedCollection;0.82;70;False;112.0
+elements;Collection;0.94;176;SequenceableCollection;0.84;163;False;176.0
+entries;SequenceableCollection;1.0;63;Collection;1.0;30;False;63.0
+fileReference;FileReference;0.95;39;AbstractFileReference;0.93;136;False;136.0
+generalizations;OPUMLToManyLinks;1.0;45;Array;0.88;44;False;45.0
+holder;ToNodeHolder;0.94;59;BlInfiniteHolder;0.83;30;False;59.0
+key;Symbol;0.82;138;ArrayedCollection;0.8;437;False;437.0
+length;Number;0.94;51;Integer;0.92;83;False;83.0
+lines;OrderedCollection;0.81;34;SequenceableCollection;0.97;60;False;60.0
+max;Magnitude;0.87;41;Number;0.81;47;False;47.0
+ownedElements;Collection;1.0;300;SRToManyLink;1.0;86;False;300.0
+packages;SequenceableCollection;0.85;74;Collection;0.95;83;False;83.0
+prefix;Symbol;0.91;63;String;0.96;112;False;112.0
+queryClass;Object class;1.0;32;ClyTypedQuery class;0.89;34;False;34.0
+rendererClass;WATagCanvas class;0.97;30;WAHtmlCanvas class;0.9;36;False;36.0
+selectionModel;ToPrimarySelectionModel;0.81;116;ToSelectionModel;1.0;33;False;116.0
+shapes;RSGroup;0.99;86;SequenceableCollection;0.99;160;False;160.0
+size;Integer;0.95;874;Number;0.95;287;False;874.0
+sourceEdges;Collection;1.0;38;SRToManyLink;1.0;86;False;86.0
+targetEdges;Collection;1.0;34;SRToManyLink;1.0;86;False;86.0
+testParameters;ParametrizedTestMatrix;0.99;181;Array;1.0;60;False;181.0
+theme;PharoDarkTheme;0.99;322;ToTheme;0.93;63;False;322.0
+timeStamp;Magnitude;0.91;49;Integer;0.88;35;False;49.0
+values;Array;0.85;58;SequenceableCollection;0.87;71;False;71.0
+y;Number;0.89;74;Magnitude;0.8;110;False;110.0
